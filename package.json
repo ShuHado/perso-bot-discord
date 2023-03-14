@@ -1,0 +1,16 @@
+{
+	"name": "bot-discord",
+	"version": "1.0.0",
+	"description": "Bot discord",
+	"type": "module",
+	"main": "main.py",
+	"scripts": {
+		"start": "nodemon --exec py main.py",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"nodemon": "^2.0.21"
+	}
+}
